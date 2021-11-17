@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+:root {
+	--mobile-width: 375px;
+	--desktop-width: 1440px;
+	--primary-pale-blue: hsl(225, 100%, 94%);
+	--primary-bright-blue: hsl(245, 75%, 52%);
+	--neutral-pale-blue: hsl(225, 100%, 98%);
+	--neutral-desaturated-blue: hsl(224, 23%, 55%);
+	--dark-blue: hsl(223, 47%, 23%);
+
+	--font-size: 16px;
+}
